@@ -71,4 +71,4 @@ A matrix example: stem:[[[a,b],[c,d]]((n),(k))].
 
 
 
-include::inserto.adoc
+include::./inserto.adoc
