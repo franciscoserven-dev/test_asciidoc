@@ -52,7 +52,7 @@ This is a sample important block.
 You can write mathematical expressions using STEM notation.
 
 === Inline Math
-The quadratic formula is stem:[x = (-b pm sqrt(b^2-4ac))/(2a)].
+The quadratic formula is stem:[x = (-b pm sqrt(b^2-4ac))/(2a)]  .
 
 Einstein's famous equation: stem:[E = mc^2].
 
